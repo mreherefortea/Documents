@@ -1,6 +1,6 @@
-The purpose of this guide is provide suggestions and standards for authoring instructions. 
+**The purpose of this guide is provide suggestions and standards for authoring instructions. **
 
-The following are standard practice:
+_The following are standard practice_:
 
 1. Each step should be numbered 1. and not 1,2,3,4 etc. as Markdown will interpret and automatically update each number. 
 1. While indenting entries, your indentation should be 4 spaces.  
@@ -19,7 +19,7 @@ The following are standard practice:
 
     Examples of entries would be code blocks, block quotes (>), images.  This is commonly referred to as keeping things "in-line".  If they are not properly indented, the numbering will break. 
     
-The following are aesthetic suggestions:
+_The following are aesthetic suggestions_:
 
 1. Exercises should have a header one next to them (header 1 = #). 
 1. Tasks should have a header two next to them (header 2 = ##). 
