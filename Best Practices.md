@@ -32,11 +32,14 @@ _The following are aesthetic suggestions_:
 1. Each initial log-in (if required) to a virtual machine, should have log-in instructions. 
 1. Where possible, bolding is encouraged by adding ** to each side of the item that needs bolded. 
 
+1. step
+1. steop 
+1
+1
+1
+1
+1 tset
+1 ;akjds;f
+1 ;kajsdf
 
-1. step
-2. step
-	test
-1. step
-2. step
-3. step 
-4. 
+
