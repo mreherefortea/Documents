@@ -32,3 +32,12 @@ _The following are aesthetic suggestions_:
 1. Each initial log-in (if required) to a virtual machine, should have log-in instructions. 
 1. Where possible, bolding is encouraged by adding ** to each side of the item that needs bolded. 
 
+
+1. test
+2. 1test
+3. tset
+4. tests
+5. tes
+6. ts
+7. tes
+8. t
