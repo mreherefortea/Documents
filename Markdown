@@ -13,4 +13,16 @@ The following are standard practice:
     > OSPPREARM
     > ```
   
- 1. 
+1. Any entry between a step, should be indented.  If your tab does not default to 4 spaces in Github, you can add ?ts-4 to the end of the url.  Example: https://github.com/username/reponame/edit/main/filename?ts=4.
+
+    Examples of entries would be code blocks, block quotes (>), images.  This is commonly referred to as keeping things "in-line".  If they are not properly indented, the numbering will break. 
+    
+The following are aesthetic suggestions:
+
+1. Exercises should have a header one next to them (header 1 = #). 
+1. Tasks should have a header two next to them (header 2 = ##). 
+1. Each initial log-in (if required) to a virtual machine, should have log-in instructions. 
+1. Where possible, bolding is encouraged by adding ** to each side of the item that needs bolded. 
+ 
+ 
+    
