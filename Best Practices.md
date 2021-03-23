@@ -1,4 +1,4 @@
-**The purpose of this guide is provide suggestions and standards for authoring instructions. **
+**The purpose of this guide is provide suggestions and standards for authoring instructions**.
 
 _The following are standard practice_:
 
