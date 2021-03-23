@@ -36,8 +36,9 @@ _The following are aesthetic suggestions_:
 1. test
 2. 1test
 3. tset
-4. tests
-5. tes
-6. ts
-7. tes
-8. t
+4. test
+5. tests
+6. tes
+7. ts
+8. tes
+9. t
