@@ -4,14 +4,16 @@ The following are standard practice:
 
 1. Each step should be numbered 1. and not 1,2,3,4 etc. as Markdown will interpret and automatically update each number. 
 1. While indenting entries, your indentation should be 4 spaces.  
-1. Code entries should either have a ` for single entries or ``` for multi-line code entries. 
+1. Code entries should either have a \` for single entries or \`\`\` for multi-line code entries. 
 
     >Examples as follows:
-    > `ipconfig` (an opening `the command and then a closing `)
+    > `ipconfig` (an opening \`the command and then a closing \`)
+    > 
     > ```
     > cd C:\Program Files (x86)\Microsoft Office\Office16
     > OSPPREARM
     > ```
+    > The fence code block consists of \``` the code and then \``` to close the statement. 
   
 1. Any entry between a step, should be indented.  You can update this by selecting Tab in your editor and then adjusting to 4.  
 
